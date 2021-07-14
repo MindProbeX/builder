@@ -23,4 +23,3 @@ task:
       - ./build # Build script to run
     upload_ccache_script: # Upload ccache to cloud foreground
       - ./upload_ccache # Ccache uploading script
-
